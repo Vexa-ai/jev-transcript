@@ -1,0 +1,1 @@
+TranscriptSegment adapts the Apache-2.0 Vexa dashboard transcript row, with annotation slots and local utility replacements. The wrapper adds Jev tags, literal keyword spans and word significance. The full authenticated dashboard is not included.

@@ -1,0 +1,10 @@
+[project]
+name = "jev-live-lab"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.28,<1",
+    "websockets>=15,<17",
+    "yake>=0.7.3",
+    "youtube-transcript-api>=1.2,<2",
+]

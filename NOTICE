@@ -1,0 +1,4 @@
+Jev transcript includes an adapted Vexa dashboard TranscriptSegment component and the unchanged @vexaai/transcript-rendering 0.4.1 ESM build.
+Upstream: https://github.com/Vexa-ai/vexa
+License: Apache-2.0 (see LICENSE).
+React and other dependencies retain their respective licenses; generated bundles include esbuild's legal notices.

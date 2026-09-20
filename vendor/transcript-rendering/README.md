@@ -1,0 +1,1 @@
+Vendored ESM build of @vexaai/transcript-rendering 0.4.1 from Vexa-ai/vexa, packages/transcript-rendering, Apache-2.0. Used unchanged for transcript state management. Vendored because this version is not available on npm.

@@ -1,0 +1,1 @@
+{"name":"jev-live-lab","private":true,"type":"module","scripts":{"build:transcript":"esbuild panel/src/transcript.tsx --bundle --format=esm --outfile=panel/dist/dashboard-transcript.js --jsx=automatic"},"dependencies":{"react":"19.1.0","react-dom":"19.1.0"},"devDependencies":{"esbuild":"0.25.10"}}

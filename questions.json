@@ -1,0 +1,11 @@
+{
+  "prompt": "",
+  "questions": {
+    "prediction": "Does NEW SPEECH make a prediction about the future?",
+    "risk": "Does NEW SPEECH describe a concrete risk or failure scenario?",
+    "evidence": "Does NEW SPEECH offer evidence supporting a claim? This asks whether evidence is offered, not whether it is true.",
+    "disagreement": "Does NEW SPEECH challenge or disagree with another claim or position?",
+    "product_idea": "Does NEW SPEECH describe a potential product, feature or use case?"
+  },
+  "threshold": 0.85
+}

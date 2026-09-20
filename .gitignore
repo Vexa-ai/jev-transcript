@@ -1,0 +1,11 @@
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+*.jsonl
+*.pid
+.env
+.env.*
+!.env.example
+panel/dist/dashboard-transcript.js
+questions.tmp
